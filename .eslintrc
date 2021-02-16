@@ -12,7 +12,9 @@
     "indent": "off",
     "require-jsdoc": "off",
     "max-len": "off",
-    "no-tabs": "off"
+    "no-tabs": "off",
+    "no-trailing-spaces": "off",
+    "eol-last": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
